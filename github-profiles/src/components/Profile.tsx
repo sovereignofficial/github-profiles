@@ -62,7 +62,7 @@ const Repository = ({ public_repos, repos_url }: Partial<ProfileProps>) => {
     const repos = await fetch(`${repos_url}`)
       .then(res => res.json())
       .catch(err => console.log(err));
-    console.log(repos);
+      
     setRepositories(repos);
   }
   useEffect(() => {

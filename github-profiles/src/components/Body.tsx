@@ -24,7 +24,7 @@ export const Body = ({searchResults,setProfile,profile}:Partial<ActionProps>) =>
         const user = await fetch(accountUrl)
         .then(res=>res.json())
         .catch(err=>console.log(err));
-        console.log(user);
+        
         setProfile && setProfile(user);
     }
 
