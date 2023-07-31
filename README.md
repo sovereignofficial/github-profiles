@@ -33,7 +33,7 @@ Clone the repository to your local machine:
 
 ``` bash
 Copy code
-git clone https://github.com/your-username/github-profiles.git
+git clone https://github.com/sovereignofficial/github-profiles.git
 ```
 Change into the project directory:
 
