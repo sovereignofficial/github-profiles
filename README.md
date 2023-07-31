@@ -21,10 +21,11 @@ View user profiles
 See followers, following, bio, location, name, and public repositories
 
 ## Technologies
-ReactJS
-TypeScript
-Vite - Fast and efficient bundler
-PNPM - Fast, disk space-efficient package manager
+- ReactJS
+- TypeScript
+- Vite 
+- PNPM 
+- Tailwindcss
 
 ## Getting Started
 To get the application running locally, follow these steps:
