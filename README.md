@@ -12,7 +12,7 @@ Contributing
 License
 
 ## Demo
-[Add a live demo link here if available]
+[https://github-profiles-sigma-sooty.vercel.app]
 
 ## Features
 Search for GitHub users
